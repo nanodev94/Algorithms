@@ -1,6 +1,6 @@
 # Linear Search
 
-This algorithm consist in search an element one by one in a list of elements, from first element until find the element or reach the last element.
+This algorithm consists in search an element one by one in a list of elements, from first element until find the element or reach the last element.
 
 ![summary](/img/linear/summary.webp)
 

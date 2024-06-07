@@ -4,3 +4,4 @@ This repository contains state of art programming algorithms. The following are 
 
 - Searching:
   - Linear
+  - Binary
